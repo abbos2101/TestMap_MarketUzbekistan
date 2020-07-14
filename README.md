@@ -9,7 +9,7 @@
 ## Check out the [foydalanilgan api linki](https://androidapi.lebazar.uz/api/v1/company/list/)
 
 ## Dastur sxemasi
-![Dastur sxemasi](ScreenShots/screen1.png)
+![Dastur sxemasi](ScreenShots/screen1.PNG)
 
 ## Birinchi oyna/kompaniyalar ro'yxati
 ![Birinchi oyna/kompaniyalar ro'yxati](ScreenShots/screen2.png)
