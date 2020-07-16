@@ -6,7 +6,7 @@
 4. Glide (rasm yuklash uchun)
 5. Google Map
 
-## Check out the [foydalanilgan api linki](https://androidapi.lebazar.uz/api/v1/company/list)
+## [Foydalanilgan api linki](https://androidapi.lebazar.uz/api/v1/company/list)
 
 ## Dastur sxemasi
 ![Dastur sxemasi](ScreenShots/screen1.PNG)
